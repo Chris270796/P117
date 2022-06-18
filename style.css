@@ -1,0 +1,22 @@
+body {
+    background-color: cyan
+}
+
+h1 {
+    background-color: blanchedalmond;
+}
+
+#timer {
+    font-size: 28;
+    margin-right: 1350;
+}
+
+#score {
+    font-size: 28;
+    margin-left: 1350;
+}
+
+#sketch_to_be_drawn {
+    font-size: 28;
+    color: red;
+}
